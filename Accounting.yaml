@@ -12,7 +12,7 @@ info:
   license:
     name: MIT
     url: 'https://opensource.org/licenses/MIT'
-  description: Accounting path
+  description: Accounting pathnbh
 servers:
   - url: 'https://platform.flexbase.dev'
     description: Development
